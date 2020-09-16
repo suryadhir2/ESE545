@@ -1,4 +1,3 @@
-#Surya Dhir, Ryan Galvankar, Ben Jacob
 #ESE 545 Project 1
 
 import numpy as np
