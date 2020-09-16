@@ -17,5 +17,3 @@ If you would like to find the nearest neighbor for Problem 6 of a different
 reviewID, uncomment and change line 143 of proj1_main.py to include the reviewID you
 would like to use.
 
-Thanks
-Surya, Ryan, and Ben
