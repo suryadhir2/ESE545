@@ -2,6 +2,8 @@ Hello...
 
 Welcome...
 
+You are looking at our submission for Project 1 of ESE 545 (Data Mining: Learning from Massive Datasets).
+
 To run our code, open the proj1_main.py file in your favorite editor,
 and change the filepath in line 15 to your locally saved location of
 amazonReviews.json.
