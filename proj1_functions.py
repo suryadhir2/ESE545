@@ -1,4 +1,3 @@
-#Surya Dhir, Ryan Galvankar, Ben Jacob
 #ESE 545 Project 1
 
 def create_k_shingles(text, k):
